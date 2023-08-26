@@ -1,0 +1,6 @@
+1 La compatibilidad depende de la arquitectura del sistema operativo
+2 Soporta maquinas de x56, AMD64/Intel64
+3 Administra y coordina las maquinas virtuales junto con los recursos 
+actua como intermediario entre la VM y el Hardware
+4 Si una maquina virtual se rompe no afecta a las demas, porque son independientes
+unas de otras a menos que la falla tenga que ver con algun recurso compartido.
